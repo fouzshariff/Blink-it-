@@ -1,6 +1,6 @@
 # <center>**Blinkit Data Analysis using SQL**</center>
 
-<img src="image.png" 
+<img src="image(11).png" 
         alt="Picture" 
         width="1000" 
         height="600" 
