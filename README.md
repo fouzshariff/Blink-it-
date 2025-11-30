@@ -1,14 +1,12 @@
 # <center>**Blinkit Data Analysis using SQL**</center>
 
-<img src="[image(11).png](https://github.com/fouzshariff/Blink-it-/commit/72c4f4e5497242d06368773474583f5ca41aa647#diff-aeb210a88858804ede2a4ba39b5b7d61f2297f3e4f3e93d85e202d3857be838b)" 
+<img src="[image(11).png]" 
         alt="Picture" 
         width="1000" 
         height="600" 
         style="display: block; margin: 0 auto" />
 
 **Tools Used :** SQL,Excel
-
-[Dataset Used](https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset?select=BlinkIT-Grocery-Data.csv)
 
 [SQL Analysis Code](https://github.com/Gaurabh007/Blinkit-Data-Analysis-SQL/blob/main/Blinkit_Data_Analysis.sql)
 
